@@ -1,4 +1,3 @@
-# test_git
 <ol>
 	<li>Clone this repository</li>
 	<li>move terminal path to lara_app</li>
