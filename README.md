@@ -7,5 +7,5 @@
 	<li>create Database with name : lara_app</li>
 	<li>export lara_app.sql </li>
 	<li>php artisan server</li>
-	<li>Login trial with : admin@gmail.com / 123456</li>
+	<li>Login trial with : ariumboroseno@gmail.com / 123456</li>
 </ol>
