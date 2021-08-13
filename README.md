@@ -1,5 +1,6 @@
 <ol>
-	<li>move folder to lara_app</li>
+	<li>Clone this repository</li>
+	<li>move terminal path to lara_app</li>
 	<li>composer update</li>
 	<li>rename .env.example to .env</li>
 	<li>php artisan key:generate</li>
