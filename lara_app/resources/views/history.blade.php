@@ -17,7 +17,7 @@
                         </form>
                     </div>
                         @php
-                            $phone = App\Models\PrepaidBalance::where("user_id", Auth::user()->id)->first()->phone;
+                            $phone = App\Models\ProductPage::where("user_id", Auth::user()->id)->first()->phone;
                         @endphp
                         @foreach ($data as $item)
                             @php
